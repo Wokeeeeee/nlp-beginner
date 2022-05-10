@@ -151,7 +151,7 @@ def predict(infile, word2posDict, outfile):
 import sys
 
 infile = "./people-2014/test/0123/c1001-24200318.txt"
-model_file = "./model_file.txt"
+model_file = "model_file.txt"
 outfile = "./result.txt"
 
 word2posDict = {}

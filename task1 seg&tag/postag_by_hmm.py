@@ -278,7 +278,7 @@ import sys
 import math
 
 infile = "./people-2014/test/0123/c1001-24200318.txt"
-model_file = "./model_file.txt"
+model_file = "model_file.txt"
 outfile = "./result.txt"
 gPosList = []
 transDict = {}
